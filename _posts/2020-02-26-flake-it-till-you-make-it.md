@@ -2,7 +2,6 @@
 layout: post
 title: About me
 subtitle: PhD student
-cover-img: /assets/img/word_detection.jpg
 tags: [books, test]
 ---
 
