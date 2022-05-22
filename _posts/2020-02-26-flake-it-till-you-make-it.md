@@ -2,9 +2,7 @@
 layout: post
 title: About me
 subtitle: PhD student
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/word_detection.jpg
 tags: [books, test]
 ---
 
