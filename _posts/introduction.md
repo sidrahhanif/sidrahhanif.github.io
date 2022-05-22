@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-subtitle: Each post also has a subtitle
+subtitle: This is a test blog post
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
