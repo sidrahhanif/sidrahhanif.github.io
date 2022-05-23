@@ -14,7 +14,7 @@ author: Sidra Halima Hanif
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "PhD Student @ Temple University"
+  CV: "PhD Student @ Temple University"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
