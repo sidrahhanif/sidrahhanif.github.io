@@ -31,7 +31,7 @@ short_bio: >-
     features.
   </p>
 
-portrait_url: /assets/images/photos/profile_poc.jpeg
+portrait_url: /assets/images/photos/profile_pic.jpeg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -47,10 +47,10 @@ logo: /assets/images/badges/Temple_T_logo.png
   position: B.S. in Electrical Engineering
   date: Aug 2008 - May 2012
 
-experience:
- - name: California State University, San Maros
-   logo: /assets/images/badges/csusm-logo.jpg
-   position: Lecturer
-   date: Aug 2025 - Present
+#experience:
+# - name: California State University, San Maros
+#   logo: /assets/images/badges/csusm-logo.jpg
+#   position: Lecturer
+#   date: Aug 2025 - Present
 
 
