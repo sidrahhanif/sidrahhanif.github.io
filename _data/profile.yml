@@ -5,7 +5,7 @@ navbar_name: "Sidra Hanif"
 positions:
 - name: Lecturer @ CSUSM
 - name: California State University, San Marcos
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/ #/assets/images/badges/csusm-logo.jpg  # Logo is optional
 
 
 email: "sidra.haneef@yahoo.com"
@@ -21,9 +21,7 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
+  
   <p>
     I work at alwaysAI as a ML engineer. Recently, I developed a Bring Your Own Architecture (BYOA) software with my team at alwaysAI. 
     Previously, I defended by PhD dissertation in Computer Science at Temple University , Philadelphia. During my PhD, I was advised 
@@ -33,31 +31,25 @@ short_bio: >-
     features.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/profile_poc.jpeg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Temple University, Philadlephia
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/Temple_T_logo.png
   position: >- 
     Department of Computer and Information Science <br/>
   date: Fall 2017 - Fall 2023
 - name: University of Engineering and Technology, Lahore
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/uet-lahore-logo.png
   position: B.S. in Electrical Engineering
   date: Aug 2008 - May 2012
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+ - name: California State University, San Maros
+   logo: /assets/images/badges/csusm-logo.jpg
+   position: Lecturer
+   date: Aug. 2025 - Present
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+
