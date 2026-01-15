@@ -36,10 +36,11 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Temple University, Philadlephia
-  logo: /assets/images/badges/Temple_T_logo.png
+- name: Temple University, Philadelphia
+logo: /assets/images/badges/Temple_T_logo.png
   position: >- 
-    Department of Computer and Information Science <br/>
+    Department of Electrical Engineering and Computer Science <br/>
+    Ph.D. Student
   date: Fall 2017 - Fall 2023
 - name: University of Engineering and Technology, Lahore
   logo: /assets/images/badges/uet-lahore-logo.png
@@ -50,6 +51,6 @@ experience:
  - name: California State University, San Maros
    logo: /assets/images/badges/csusm-logo.jpg
    position: Lecturer
-   date: Aug. 2025 - Present
+   date: Aug 2025 - Present
 
 
