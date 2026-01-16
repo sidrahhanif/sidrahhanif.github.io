@@ -4,8 +4,8 @@ date:           2022-01-14 00:01:00 +0800
 selected:       true
 pub:            "Document Intelligence workshop, ACM SIGKDD"
 pub_date:       "2022"
-abstract: >-
-  Word detection is considered an object detection problem. However,
+abstract: >- 
+Word detection is considered an object detection problem. However,
 characters are the basic building block in words, and the presence
 of characters makes word detection different from general object
 detection problems. Character region scores identification performs
@@ -20,6 +20,7 @@ level information in handwriting. We propose to fuse the character
 region scores and images to detect words in camera-captured handwriting images. Fusion of character region score with image has
 a higher recall of 88.4(+1.2) and outperforms the state of the stateof-the-art object detector with 92.2(+0.4) mAP@0.5 and 64.0(+0.4)
 mAP@0.5:0.95. 
+
 cover:          /assets/images/covers/block_diagram.png
 authors:
 - Sidra Hanif
