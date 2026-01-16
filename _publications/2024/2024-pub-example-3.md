@@ -11,10 +11,8 @@ abstract: >-
   
 cover:          /assets/images/covers/diss.png
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
-paper: [mepage](https://scholarshare.temple.edu/server/api/core/bitstreams/8216525e-6f5a-4cb9-90c0-58c199e5f1dc/content)
+  - Sidra Hanif
+links:
+  Paper: https://scholarshare.temple.edu/server/api/core/bitstreams/8216525e-6f5a-4cb9-90c0-58c199e5f1dc/content
   
 ---
