@@ -5,7 +5,7 @@ selected:       true
 pub:            "Document Intelligence workshop, ACM SIGKDD"
 pub_date:       "2022"
 abstract: >- 
-Word detection is considered an object detection problem. However,
+ Word detection is considered an object detection problem. However,
 characters are the basic building block in words, and the presence
 of characters makes word detection different from general object
 detection problems. Character region scores identification performs
