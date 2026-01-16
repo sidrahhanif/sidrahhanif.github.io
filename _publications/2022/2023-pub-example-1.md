@@ -17,9 +17,7 @@ propose the fusion of character region scores with word detection.
 Since the character level annotations are not available for handwritten text, we estimate the character region scores in a weakly supervised manner. Character region scores are estimated autonomously
 from the word’s bounding box estimation to learn the character
 level information in handwriting. We propose to fuse the character
-region scores and images to detect words in camera-captured handwriting images. Fusion of character region score with image has
-a higher recall of 88.4(+1.2) and outperforms the state of the stateof-the-art object detector with 92.2(+0.4) mAP@0.5 and 64.0(+0.4)
-mAP@0.5:0.95. 
+region scores and images to detect words in camera-captured handwriting images. 
 
 cover:          /assets/images/covers/block_diagram.png
 authors:
