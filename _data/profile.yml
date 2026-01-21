@@ -46,6 +46,15 @@ education:
   position: B.S. Electrical Engineering
   date: Aug 2008 - May 2012
 
+Teaching Experience:
+- name: Temple University, Philadelphia
+  logo: /assets/images/badges/Temple_T_logo.png
+  position: Ph.D. Computer and information Science
+  date: Aug 2017 - Dec 2023
+- name: University of Engineering and Technology, Lahore
+  logo: /assets/images/badges/uet-lahore-logo.png
+  position: B.S. Electrical Engineering
+  date: Aug 2008 - May 2012
 # experience:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
