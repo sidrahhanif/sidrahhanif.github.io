@@ -55,10 +55,10 @@ Teaching Experience:
   logo: /assets/images/badges/uet-lahore-logo.png
   position: B.S. Electrical Engineering
   date: Aug 2008 - May 2012
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+ - name: Peking University
+   logo: /assets/images/badges/PKU_red.png
+   position: Research Intern
+   date: Sep. 2019 - Jul. 2021
 
 
